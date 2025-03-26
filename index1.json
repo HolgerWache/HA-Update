@@ -1,0 +1,12 @@
+[
+  {
+    "fileName": "app_innr-sp240-1.7.23_UG.ota",
+    "fileVersion": 387397253,
+    "fileSize": 286994,
+    "url": "https://raw.githubusercontent.com/HolgerWache/HA-Update/refs/heads/main/app_innr-sp240-1.7.23_UG.ota",
+    "imageType": 817,
+    "manufacturerCode": 4454,
+    "sha512": "a7044704820e536124ceff7c4f7b6df30152939b9bb9cd9ae1498f3bc69554088cf738da10f67bf9722ee8d100b40930953ba08df0a388b376bf47226f2a5e2b",
+    "otaHeaderString": "Telink OTA Sample Usage\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+  }
+]
